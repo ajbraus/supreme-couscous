@@ -12,3 +12,5 @@ Act 3 -
 lives
 
 lives
+
+a new thing
